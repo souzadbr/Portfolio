@@ -1,0 +1,143 @@
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	
+	background:url("img/fundo1.jpg")
+	
+
+ 	
+}
+
+.divprincipal {
+	display: flex;
+	align-items: center;
+	justify-content:center;
+	margin-left: 300px;
+	margin-right: 200px;
+	margin-top: 0px;
+	border-radius:10%;
+	background:#FFB6C1;
+
+	
+	
+	}
+
+	.divprincipal div p{
+		
+		margin-left: 20px;
+		font-size: 22px;
+		
+		
+
+	}
+
+
+
+.logo img{
+	max-width:400px;
+	padding: -100px;
+	margin-left: -100px;
+	margin-right: 50px;
+	margin-top: 0px;
+	border-radius:50%;
+}
+.quemsou{
+display:flexbox;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+margin-top: 60px;
+
+}
+
+.quemsou img {
+	margin-top: -10px;
+	margin-left: 500px;
+	margin-right: 50px;
+	max-width: 300px;
+	border-radius: 10%;
+
+}
+.tituloquem{
+	margin-bottom: -300px;
+	margin-left: 900px;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: -290px;
+	
+	
+}
+.quemsou p {
+	margin-bottom: 10px;
+	margin-left: 850px;
+	margin-right: 500px;
+	text-align: justify;
+	font-size: 18px;
+}
+
+.projetos{
+
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	margin-top: 40px;
+	margin-left: 40px;
+	margin-right: -100px;
+	
+
+}
+
+.projetos h3 {
+	padding: -300px 115px 0px -10px;
+	font-size: 20px;
+	text-align: center;
+}
+.projetos li {
+	padding: 0px 800px;
+	margin-top: 0px;
+	text-align: left;
+	font-size: 20px;
+}
+.rodape {
+	display: flex;
+	align-items: center;
+	justify-content: left;
+		
+}
+.rodape p{
+	margin-right: 50px;
+	
+}
+a:link, a:visited{
+	color:rebeccapurple;
+	text-decoration: none;
+}
+a:active, a:hover{
+	color:pink;
+	text-decoration: underline;
+}
+
+footer{
+	background:#FFB6C1;
+	margin-left: 300px;
+	margin-right: 200px;
+	margin-top: 0px;
+	border-radius:10%;
+}
+
+
+.container div {
+	width: 350px;
+	height: 400px;
+	margin-top: 50px;
+	display:inline-block;
+
+
+}
+.container1 div {
+	width: 350px;
+	height: 350px;
+	display: inline-block;
+	
+}
+

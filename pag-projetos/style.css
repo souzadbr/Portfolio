@@ -1,0 +1,213 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  background: url("../img/fundo1.jpg");
+}
+
+.divprincipal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+  margin-right: 200px;
+  margin-top: 0px;
+  border-radius: 10%;
+  background: #ffb6c1;
+}
+
+.divprincipal div p {
+  margin-left: 20px;
+  font-size: 22px;
+}
+
+.logo img {
+  max-width: 400px;
+  margin-right: 50px;
+  margin-top: 0px;
+  border-radius: 50%;
+}
+.quemsou {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  margin-top: 60px;
+}
+
+.quemsou img {
+  margin-top: 50px;
+  margin-left: 600px;
+  margin-right: 50px;
+  max-width: 300px;
+  border-radius: 10%;
+}
+
+.quemsou p {
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 400px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.container1 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container1 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+.container2 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container2 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+
+.container3 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container3 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+
+.container4 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container4 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+
+.container5 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container5 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+.container6 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container6 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+.container7 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container7 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+.container8 {
+  display: flex;
+  flex-flow: row;
+  margin-left: 50px;
+  justify-content: center;
+  padding: auto;
+}
+.container8 div {
+  margin: 0 10px 0px 30px;
+  padding: 10px 15px 10px 30px;
+}
+
+.container1 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+.caixa2 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+.caixa3 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+.caixa4 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+.caixa5 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+.caixa6 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+.caixa7 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+.caixa8 img {
+  max-width: 200px;
+  border-radius: 10%;
+}
+
+.titulo1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  margin-top: 100px;
+  margin-left: 70px;
+  text-align: center;
+}
+
+.rodape {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.rodape p {
+  margin-right: 50px;
+}
+a:link,
+a:visited {
+  color: rebeccapurple;
+  text-decoration: none;
+}
+a:active,
+a:hover {
+  color: pink;
+  text-decoration: underline;
+}
+
+footer {
+  background: #ffb6c1;
+  margin-left: 300px;
+  margin-right: 200px;
+  margin-top: 0px;
+  border-radius: 10%;
+}
